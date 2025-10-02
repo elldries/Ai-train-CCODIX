@@ -1,4 +1,4 @@
-# Ai-train-CCODIX
+# Ai-train
 
 by: elldries
 
